@@ -234,7 +234,7 @@ This makes the app:
 - Easy to maintain
 
 Social Links
-GitHub: https://github.com/your-username
+GitHub: [https://github.com/your-username](https://github.com/mohamed30484)
 Email: mohamedabdelaziz9@gmail.com
 
 Contributing
