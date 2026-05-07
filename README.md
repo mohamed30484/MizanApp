@@ -201,9 +201,10 @@ assets/screenshots/
 └── currency_exchange.png
 
 Example
-![Login Screen](assets/screenshots/login.png)
-![Home Screen](assets/screenshots/home.png)
-![Expenses Screen](assets/screenshots/expenses.png)
+![Login Screen]([assets/screenshots/login.png](https://www.mediafire.com/file/86n1k9iwcapwzwg/07.05.2026_06.34.47_REC.mp4/file))
+
+
+
 
 Database Structure
 Installments Table
