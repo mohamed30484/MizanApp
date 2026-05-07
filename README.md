@@ -164,7 +164,7 @@ Make sure you have installed:
 - Android Emulator or physical device
 
 Clone the Repository
-git clone https://github.com/your-username/mizan_app.git
+[git clone https://github.com/your-username/mizan_app.git](https://github.com/mohamed30484/MizanApp.git)
 cd mizan_app
 
 Install Dependencies
